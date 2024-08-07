@@ -1,0 +1,1 @@
+python classify.py --model weather.model --labelbin weather.pickle
